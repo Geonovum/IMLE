@@ -97,7 +97,13 @@ Resultaat:
 Aanpak
 ------
 
-Er wordt gekozen voor een AGILE-aanpak.
+We willen graag kiezen voor een AGILE-achtige aanpak. We maken met elkaar een
+lijst (backlog) van onderwerpen die belangrijk zijn om uit te werken in het
+informatiemodel, prioriteren die met de opdrachtgever/inhoudelijk
+verantwoordelijke(n), en werken zo toe naar het eindresultaat. Wensen en eisen
+waar we binnen de beschikbare (doorloop)tijd niet aan toe komen blijven gelogd
+op de backlog en kunnen in de doorontwikkeling van het informatiemodel worden
+meegenomen.
 
 Modelering
 ----------

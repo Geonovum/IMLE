@@ -63,6 +63,40 @@ Wettelijk kader
 
 Hieronder volgt een (niet-uitputtende) opsomming van in welke wet- en
 regelgeving (de toepassing van gegevens over) landschapselementen is geregeld.
+Europees niveau
+Europees landschapsverdrag, Florence, 20-10-2000
+
+EU niveau
+Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling en het Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) (PB EU L 347/487);
+
+Verordening (EU) 1306/2013 en 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake financiering, beheer en monitoring van het gemeenschappelijk landbouwbeleid (PB EU L 347/549;
+
+Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betaling aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid (PB EU L 347/608);
+
+Gedelegeerde Verordening (EU) nr. 639/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot wijziging van bijlage X bij die verordening;
+
+Verordening (EU) nr. 640/2014: Gedelegeerde verordening (EU) nr. 640/2014 van de Europese Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden (PbEU L 181);
+
+Verordening (EU) nr. 641/2014: Uitvoeringsverordening (EU) nr. 641/2014 van de Europese Commissie van 16 juni 2014 tot vaststelling van de uitvoeringsbepalingen voor Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid (PbEU L 181);
+
+Verordening (EU) nr. 809/2014: Uitvoeringsverordening (EU) nr. 809/2014 van de Europese Commissie van 17 juli 2014 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem, plattelandsontwikkelingsmaatregelen en de randvoorwaarden (PbEU L 227);
+
+Vanaf 2023
+
+Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agricultural policy and  repealing Regulation (EU) No 1306/2013, PE/65/2021/INIT;
+
+
+ Regulation (EURegulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013
+ 
+EU Regulation 2020/2220 laying down certain transitional provisions for support from the EAFRD and EAGF in the years 2021 and 2022.
+
+Nationaal niveau
+
+het Subsidiestelsel Natuur en Landschap (SNL)
+
+Het SNL bestaat uit de ’Subsidieverordening Natuur- en Landschapsbeheer’ (SVNL) voor het beheer van natuur en landschap, en de ‘Subsidieregeling Kwaliteitsimpuls Natuur en Landschap’ (SKNL), voor investeringen in natuur en landschap (omvorming, inrichting en kwaliteitsontwikkeling).
+
+
 
 Relevante Standaarden
 =====================

@@ -26,11 +26,17 @@ Toepassing betreft subsidieverlening door RVO en ANLB.
 Lijst met stakeholders die betrokken worden bij dei nformatiemodellering (zowel
 binnen als buiten RVO):
 
--   RVO:
+-   RVO: KAI, UB, KPEU, IMP, Afd. Data, JZ, IUC
 
--   Provincies?
-
+-   Provincies
+-   LNV
+-   Collectieven
+-   NVWA
 -   Softwareleveranciers?
+-   LTO
+-   DICTU
+-   BGT bronhouders
+-   Boerennatuur
 
 Bestaande softwaresystemen
 ==========================
@@ -72,7 +78,7 @@ Europees landschapsverdrag, Florence, 20-10-2000
 EU niveau
 
 RICHTLIJN 2007/2/EG VAN HET EUROPEES PARLEMENT EN DE RAAD van 14 maart 2007
-tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire
+tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire)
 
 
 Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling en het Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) (PB EU L 347/487);

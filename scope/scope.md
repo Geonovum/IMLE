@@ -3,6 +3,8 @@ Beschrijving van landschapselementen
 
 Landschapselementen zijn …
 
+-> means any visible structure or landscape design or enhancement feature or utility to be provided on any Lot;
+
 Het (keten)werkproces waarin gegevens over landschapselementen worden geproduceerd
 ==================================================================================
 
@@ -63,10 +65,16 @@ Wettelijk kader
 
 Hieronder volgt een (niet-uitputtende) opsomming van in welke wet- en
 regelgeving (de toepassing van gegevens over) landschapselementen is geregeld.
-Europees niveau
+
+Europees niveau, Council of Europe
 Europees landschapsverdrag, Florence, 20-10-2000
 
 EU niveau
+
+RICHTLIJN 2007/2/EG VAN HET EUROPEES PARLEMENT EN DE RAAD van 14 maart 2007
+tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire
+
+
 Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling en het Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) (PB EU L 347/487);
 
 Verordening (EU) 1306/2013 en 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake financiering, beheer en monitoring van het gemeenschappelijk landbouwbeleid (PB EU L 347/549;
@@ -92,7 +100,20 @@ EU Regulation 2020/2220 laying down certain transitional provisions for support 
 
 Nationaal niveau
 
-het Subsidiestelsel Natuur en Landschap (SNL)
+Wet Natuurbescherming
+(landschappelijke waarden en kwaliteiten) 
+
+Aanvullingswet Natuur/Omgevingswet, Aanvullingsbesluit Natuur/Besluit kwaliteiten Leefomgeving, Besluit Activiteiten Leefomgeving, Aanvullingsregeling Natuur/Omgevingsregeling
+(landschappelijke waarden en kwaliteiten)
+
+Natuur is deel van het landschap waarop de mens in Nederland nadrukkelijk zijn stempel heeft gedrukt, en omgekeerd zijn landschapselementen en een groenblauwe
+dooradering van het landelijk gebied onmisbaar voor een sterke natuur. MvT
+
+
+Het Concept Nationaal Strategisch Plan (22-12-2021)
+Het Nationaal Strategisch Plan (NSP) is de Nederlandse invulling van het nieuwe Gemeenschappelijk Landbouwbeleid.
+
+Het Subsidiestelsel Natuur en Landschap (SNL)
 
 Het SNL bestaat uit de ’Subsidieverordening Natuur- en Landschapsbeheer’ (SVNL) voor het beheer van natuur en landschap, en de ‘Subsidieregeling Kwaliteitsimpuls Natuur en Landschap’ (SKNL), voor investeringen in natuur en landschap (omvorming, inrichting en kwaliteitsontwikkeling).
 

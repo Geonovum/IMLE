@@ -63,8 +63,22 @@ Basisregistatie Topografie (BRT)
 De [Basisregistatie Topografie
 (BRT)](https://www.geobasisregistraties.nl/basisregistraties/topografie)
 
+
+EU Intergrated Administration and Control System (IACS)
+--------------------------------
+In het Nederlands: Geïntegreerd beheers- en controlesysteem (GBCS).
+
+Het GBCS
+zorgt ervoor dat betalingen op basis van areaal- en diergebonden steunregelingen correct worden uitgevoerd
+* voorkomt, ontdekt en traceert onregelmatigheden
+* vordert onterecht betaalde bedragen terug
+* helpt boeren correcte aanvragen op te stellen
+
+Landschapselementen zaten ook in EFA (Ecological Focus Area/Ecologische aandachtsgebieden) en GSAA (Geospatial Aid applications) laag die door het RVO werd samengesteld. Deze werden volgens het [IACS datamodel](https://lpis.jrc.ec.europa.eu/CAP_IACS/index.htm?goto=1:2:1:32) aangeleverd. We willen weten hoe deze laag er precies uitziet om te bepalen hoe dit op informatiekundig niveau samenhangt met de nieuwe GLB's landschapselementen.
+
 INSPIRE 
 --------
+De landschapselementen uit de EFA en GSAA laag van het IACS, hoefden niet aan te sluiten op INSPIRE. Met de komst van het nieuwe GLB wordt er door het JRC gekeken hoe de landschapselementen op INSPIRE zouden kunnen aansluiten. Tijdens de start van de ontwikkeling van het IMLE, was er door het JRC nog geen aanpak hiervoor gekozen.
 
 Wettelijk kader
 ===============
@@ -171,12 +185,16 @@ Modelering
 
 Aansluiten op NEN3610 en MIM
 
+
 Inhoud
 ------
 
 Betreft 4 typen: Hout, water, overig en bomen. Het uitbreiden naar
 subtypologieen (ca 20) is in de toekomst niet uit te sluiten maar in deze fase
 nog niet gewenst. Voor het type overig zijn nog overwegingen/onduidelijkheden.
+
+Landschapselementen zaten ook in EFA (Ecological Focus Area/Ecologische aandachtsgebieden) en GSAA (Geospatial Aid applications) laag die door het RVO werd samengesteld. Deze werden volgens het [IACS datamodel](https://lpis.jrc.ec.europa.eu/CAP_IACS/index.htm?goto=1:2:1:32) aangeleverd. We willen weten hoe deze laag er precies uitziet om te bepalen hoe dit op informatiekundig niveau samenhangt met de nieuwe GLB's landschapselementen.
+
 
 Kwaliteit
 ---------

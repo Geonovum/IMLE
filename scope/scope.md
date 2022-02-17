@@ -37,38 +37,37 @@ worden geproduceerd
 Stakeholders
 ============
 
+**Aanbodkant**
+
 Toepassing betreft subsidieverlening door RVO en ANLB.
 
-Lijst met stakeholders die betrokken worden bij dei nformatiemodellering (zowel
+Lijst met stakeholders die betrokken worden bij de informatiemodellering (zowel
 binnen als buiten RVO):
-
 -   RVO: KAI, UB, KPEU, IMP, Afd. Data, JZ, IUC
 
-T.a.v. onderstaande externen nog te bepalen in welke mate dat van toepassing is:
-
--   B&N (ikv ANLB)
-
--   EU
-
-Overige stakeholders?:
-
--   Provincies
-
--   LNV
-
--   Collectieven
-
--   NVWA
-
--   Softwareleveranciers?
-
--   LTO
-
--   DICTU
-
+Stakeholders aan de inwinningskant van data:
 -   BGT bronhouders
+-   Leverancier bomenregister?
 
--   Boerennatuur
+**Vraagkant** 
+
+T.a.v. onderstaande externen nog te bepalen in welke mate deze van toepassing zijn. Voor externe stakeholders worden 3 groepen onderscheiden: De partijen die met de data aan de slag gaan (data afnemers), de partijen die zich bezighouden met grondgebonden regelingen (juristen grondgebonden regelingen) en de partijen die zich bezig houden met EU-regelingen (juristen EU-regelingen).
+
+Data afnemers:
+-   B&N (ikv Agrarisch Natuur- en Landschapsbeheer)
+-   Softwareleveranciers?
+-   BoerenNatuur
+-   Agrarische Collectieven
+-   Land- en Tuinbouworganisatie Nederland (LTO)
+
+Juristen grondgebonden regelingen:
+-   Provincies
+-   Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV)
+-   Nederlandse Voedsel- en Warenautoriteit (NVWA)
+-   Dienst ICT Uitvoering (DICTU)
+
+Juristen EU-regelingen
+-   Het Joint Research Centre (JRC) van de Europese Commissie.
 
 Bestaande softwaresystemen
 ==========================

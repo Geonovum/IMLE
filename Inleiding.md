@@ -1,69 +1,49 @@
-## Inleiding
+Inleiding
+---------
 
-*Hier de inleiding, een generieke tekst over het onderwerp van het rapport, de omgeving van eht rapport, enz ...* 
+Een landschapselement is een onderdeel van het landschap dat als een vrij
+homogeen deel van het totale beeld wordt ervaren. Landschapselementen zijn de
+bouwstenen die samen de structuur van het landschap bepalen. Verschillen in
+aard, hoeveelheid en samenhang van landschapselementen dragen bij aan de
+karakteristieke kenmerken van het landschap. Ze hebben veelal een historische
+achtergrond: de invloed van de mens in het verleden op het landschap is er dan
+in terug te vinden.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Veel landschapselementen hebben naast een historische en een landschappelijke
+ook een landschapsecologische functie: ze kunnen dan beschouwd worden als
+ecotopen in een ecosysteem. Ook reliëfvormen met een voornamelijk natuurlijke
+ontstaanswijze, aangeduid met het geomorfologische begrip landvorm, worden
+landschapselementen genoemd.
+
+Voor beheer en behoud van landschapselementen kunnen landbouwers aanspraak maken
+op een financïele ondersteuning vanuit locatiegebonden regelingen van het
+Gemeenschappelijk Landbouw Beleid (GLB). Rijksdienst voor Ondernemend Nederland
+(RVO) is uitvoerder van de beoordeling en afhandeling van deze
+subsidie-aanvragen.
+
+### Doel
+
+Het informatiemodel Landschapselementen (IMLE) heeft als doel om de inhoud en de
+kwaliteitseisen van de referentielaag Landschapselementen van Rijksdienst voor
+Ondernemend Nederland (RVO) te beschrijven.
 
 ### Toepassingsgebied
 
-*Beschrijf het toepassingsgebied, voorbeeld: het installatieregister, wat is het, waarvoor wordt het gebruikt (of gaat het worden gebruikt), enz ...*
+Het informatiemodel Landschapselementen (IMLE) beschrijft de gegevensdefinitie
+van de referentielaag Landschapselementen van Rijksdienst voor Ondernemend
+Nederland (RVO). De referentielaag Landschapselementen is een informatieproduct
+welke is samengesteld uit verschillende bronnen en door RVO wordt toegepast bij
+de beoordeling van subsidie-aanvragen van landbouwers. De referentielaag LE
+speelt een belangrijke rol bij het uitvoeren en afhandelen van deze aanvragen.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-### Doelgroep
-
-*Beschrijf de doelgroep, wie dat zijn, en hoe ze het rapport kunnen gebruiken*
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Er zijn geen andere toepassingen onderkent bij de ontwikkeling van het IMLE. Het
+toepassinggebied van dit IMLE is daarmee in beginsel beperkt tot het interne
+werkproces van RVO inzake de afhandeling van locatiegebonden regelingen in het
+kader van het Gemeenschappelijk Landbouw Beleid (GLB).
 
 ### Leeswijzer
 
-*Beschrijf hoe het document gelzezen moet worden, welke hoofdstukken voor wie bedoeld zijn, enz...*
-
-Lorem ipsum dolor sit amet, consectetuer [Analyse](#analyse) elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat [Inhoudelijke Keuzes](#inhoudelijke-keuzes) massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis [Conclusies en Aanbevelingen](#conclusies-en-aanbevelingen) pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus [Expert Sessies](#expert-sessies) viverra nulla ut metus varius laoreet. 
-Quisque rutrum. [Informatiemodel](#informatiemodel) Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-### Het proces
-
-*Beschrijf het proces waarmee dit document is ontwikkeld*
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+In hoofdstuk 2 worden de ontwerpprincipes waarop het informatiemodel is geënt
+beschrijven. In hoofdstuk 3 worden de algemene principes beschreven. In
+Hoofdstuk 4 wordt de gegevenskwaliteit beschreven. In hoofdstuk 5 e.v. wordt het
+conceptuele model beschreven.

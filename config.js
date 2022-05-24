@@ -119,37 +119,56 @@ var respecConfig =
   //-- NB: kijk eesrt naar de beschikbare www.specref.org voor verwijziging 
   localBiblio: 
   {
-    "PUB-1":
-      {
-        title:      "Titel van Publicatie-1",
-        href:       "https://www.geonovum.nl",
-        status:     "V1.0.1",
-        publisher:  "Publisher-1",
-        company:    "Companynaam",
+     "CITAAT": {
+        title:      "Titel van het Citaat",
+        href:       "http://url van de publicatie",
+        status:     "versie van de publicatie",
+        publisher:  "naam van de publiceerder",
+        company:    "eventueel naam van bedrijf",
     },
-    "PUB-2":
-      {
-        title:      "Titel van Publicatie-2",
-        href:       "https://www.geonovum.nl",
-        status:     "V1.0.1",
-        publisher:  "Publisher-2",
-        company:    "Companynaam",
+    NEN3610: {
+      id: "NEN 3610:2011 nl",
+      title: "NEN 3610:2011 nl - Basismodel geo-informatie - Termen, definities, relaties en algemene regels voor de uitwisseling van informatie over aan de aarde gerelateerde ruimtelijke objecten",
+      href: "https://www.nen.nl/NEN-Shop/Norm/NEN-36102011-nl.htm",
+      status: "Definitief",
+      publisher: "NEN",
+      date: "2011-03-01"
     },
-    "PUB-3":
-      {
-        title:      "Titel van Publicatie-3",
-        href:       "https://www.geonovum.nl",
-        status:     "V1.0.1",
-        publisher:  "Publisher-3",
-        company:    "Companynaam",
+    MIM11: {
+      id: "mim11",
+      title: "MIM - Metamodel Informatie Modellering",
+      href: "https://docs.geostandaarden.nl/mim/mim/",
+      status: "Definitief",
+      publisher: "Geonovum",
+      date: "2022-02-17"
     },
-    "PUB-4":
-      {
-        title:      "Titel van Publicatie-4",
-        href:       "https://www.geonovum.nl",
-        status:     "V1.0.1",
-        publisher:  "Publisher-4",
-        company:    "Companynaam",
+    "ISO19108-2005": {
+      "href": "https://www.iso.org/standard/39891.html",
+      "title": "Geographic information -- Rules for application schema",
+      "date": "2005-06",
+      "publisher": "International Organization for Standardization"
+    },
+    "ISO19118-2011": {
+      "href": "https://www.iso.org/standard/44212.html",
+      "title": "Geographic information -- Encoding",
+      "date": "2011-10",
+      "publisher": "International Organization for Standardization"
+    },
+    BGT12: {
+      id: "bgt12",
+      title: "Basisregistratie Grootschalige Topografie Gegegevenscatalogus BGT 1.2",
+      href: "https://docs.geostandaarden.nl/imgeo/catalogus/bgt/",
+      status: "Definitief",
+      publisher: "Geonovum",
+      date: "2020-06-01"
+    },
+    IMGeo22: {
+      id: "imgeo22",
+      title: "Basisregistratie Grootschalige Topografie Gegevenscatalogus IMGeo 2.2",
+      href: "https://docs.geostandaarden.nl/imgeo/catalogus/imgeo/#inleiding",
+      status: "Definitief",
+      publisher: "Geonovum",
+      date: "2020-06-01"
     },
   },
   postProcess:[custGHPG],   //-- Optioneel voor een multi document repository

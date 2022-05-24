@@ -7,7 +7,10 @@ bouwstenen die samen de structuur van het landschap bepalen. Verschillen in
 aard, hoeveelheid en samenhang van landschapselementen dragen bij aan de
 karakteristieke kenmerken van het landschap. Ze hebben veelal een historische
 achtergrond: de invloed van de mens in het verleden op het landschap is er dan
-in terug te vinden.
+in terug te vinden. Een voorbeelden van landschapselementen zijn bijvoorbeeld 
+solitaire bomen die op landbouwgrond staan of pestbosjes waar vroeger door zieke 
+bezweken vee in quarantaine werd geplaatst. Verder kan een agrarisch ondernemer 
+ook de wilde bijen helpen door bloemrijke bermen niet te maaien. Ook dit zijn landschapselementen.
 
 Veel landschapselementen hebben naast een historische en een landschappelijke
 ook een landschapsecologische functie: ze kunnen dan beschouwd worden als

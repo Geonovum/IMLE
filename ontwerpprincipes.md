@@ -34,8 +34,9 @@ die buiten dit grongebied valt.
 Modellering
 -----------
 
-Het IMLE hanteert het Metamodel voor Informatiemodellering [[MIM11]] voor de
-modellering van het IMLE. Hierbij hoort het invullen van MIM metagegevens. Het IMLE sluit verder aan bij het het Basismodel Geo-informatie [[NEN3610]] op het gebied van semantiek. NEN 3610:2011 conformeert zich aan de [[ISO19108-2005]] en [[ISO19118-2011]] standaarden voor
-geo-informatie. Deze gelden daarom ook voor de IMLE. Aangezien landschapselementen direct worden ingewonnen vanuit de BGT, hanteert IMLE versie 3.1.1 van [[GML]]. Dit wijkt af van GML 3.2.2 die op de Pas-toe-of-leg-uit lijst staat van Forum Standaardisatie. Wanneer de BGT overgaat op versie 3.2.2 zal IMLE logischerwijs volgen.
+Het IMLE hanteert het Metamodel voor Informatiemodellering [[MIM11]] versie 1.1 voor de
+modellering van het IMLE. Het IMLE volgt hierbij de regels die horen bij een [MIM Niveau 2 conceptueel informatiemodel](https://docs.geostandaarden.nl/mim/mim/#niveau-2-conceptueel-informatiemodel). Hierbij hoort het invullen van MIM metagegevens. Voor de invulling van de keuze van het metagegeven [`Relatiemodelleringstype`](https://docs.geostandaarden.nl/mim/mim/#metagegeven-relatiemodelleringstype) gekozen voor `relatiesoort is leidend`.
+
+Het IMLE doet een aantal suggesties voor standaarden om bij aan te sluiten, maar aangezien het een conceptueel model is, zijn deze keuzes niet definitief. Het model gaat uit van aansluiting op het het Basismodel Geo-informatie [[NEN3610]] op het gebied van semantiek. NEN 3610:2011 conformeert zich aan de [[ISO19108-2005]] en [[ISO19118-2011]] standaarden voor geo-informatie. Deze gelden daarom ook voor de IMLE. Aangezien landschapselementen direct worden ingewonnen vanuit de BGT, hanteert IMLE versie 3.1.1 van [[GML]]. Dit wijkt af van GML 3.2.2 die op de Pas-toe-of-leg-uit lijst staat van Forum Standaardisatie. Wanneer de BGT overgaat op versie 3.2.2 zal IMLE logischerwijs volgen.
 
 

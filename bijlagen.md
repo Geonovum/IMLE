@@ -1,37 +1,51 @@
 ## Bijlagen
 
-### Bijlage A
+### Bijlage 1: Mapping Referentielaag LE en BGT
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+| OBJECTID | FILTER_VELD_1 | WAARDE_VELD_1          | FILTER_VELD_2   | WAARDE_VELD_2                           | FILTER_VELD_3 | WAARDE_VELD_3                       | FILTER_VELD_4 | WAARDE_VELD_4 | VELD_NIEUW    | WAARDE_NIEUW |
+|----------|---------------|------------------------|-----------------|-----------------------------------------|---------------|-------------------------------------|---------------|---------------|---------------|--------------|
+| 1        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | bouwland:akkerbouw                      |               |                                     |               |               | CLASSIFICATIE | Landbouw     |
+| 2        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | bouwland:bollenteelt                    |               |                                     |               |               | CLASSIFICATIE | Landbouw     |
+| 3        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | bouwland:braakliggend                   |               |                                     |               |               | CLASSIFICATIE | Landbouw     |
+| 4        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | bouwland:vollegrondsteelt               |               |                                     |               |               | CLASSIFICATIE | Landbouw     |
+| 5        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | fruitteelt                              |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 6        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | fruitteelt:hoogstam boomgaarden         |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 7        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | fruitteelt:klein fruit                  |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 8        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | fruitteelt:laagstam boomgaarden         |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 9        | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | fruitteelt:wijngaarden                  |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 10       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | gemengd bos                             |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 11       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | grasland agrarisch                      |               |                                     |               |               | CLASSIFICATIE | Landbouw     |
+| 12       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | grasland overig                         |               |                                     |               |               | CLASSIFICATIE | Overig       |
+| 13       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening                        |               |                                     |               |               | CLASSIFICATIE | Overig       |
+| 14       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening:bodembedekkers         |               |                                     |               |               | CLASSIFICATIE | Overig       |
+| 15       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening:bosplantsoen           |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 16       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening:gras- en kruidachtigen |               |                                     |               |               | CLASSIFICATIE | Overig       |
+| 17       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening:heesters               |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 18       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening:planten                |               |                                     |               |               | CLASSIFICATIE | Overig       |
+| 19       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | groenvoorziening:struikrozen            |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 20       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | houtwal                                 |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 21       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | loofbos                                 |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 22       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | loofbos:griend en hakhout               |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 23       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | moeras                                  |               |                                     |               |               | CLASSIFICATIE | Water        |
+| 24       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | naaldbos                                |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 25       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | rietland                                |               |                                     |               |               | CLASSIFICATIE | Overig       |
+| 26       | IMGEO_OBJECT  | begroeidTerreindeel    | FYSIEKVOORKOMEN | struiken                                |               |                                     |               |               | CLASSIFICATIE | Hout         |
+| 27       | IMGEO_OBJECT  | ondersteunendWaterdeel |                 |                                         |               | oever, slootkant                    |               |               | CLASSIFICATIE | Water        |
+| 28       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening                        |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Overig       |
+| 29       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening:bodembedekkers         |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Overig       |
+| 30       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening:bosplantsoen           |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Hout         |
+| 31       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening:gras- en kruidachtigen |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Overig       |
+| 32       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening:heesters               |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Hout         |
+| 33       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening:planten                |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Overig       |
+| 34       | IMGEO_OBJECT  | ondersteunendWegdeel   | FYSIEKVOORKOMEN | groenvoorziening:struikrozen            |               |                                     | FUNCTIE       | berm          | CLASSIFICATIE | Hout         |
+| 35       | IMGEO_OBJECT  | vegetatieObject        |                 |                                         |               | niet-bgt:haag                       |               |               | CLASSIFICATIE | Hout         |
+| 36       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | greppel, droge sloot                |               |               | CLASSIFICATIE | Water        |
+| 37       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | waterloop                           |               |               | CLASSIFICATIE | Water        |
+| 38       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | waterloop:beek                      |               |               | CLASSIFICATIE | Water        |
+| 39       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | waterloop:bron                      |               |               | CLASSIFICATIE | Water        |
+| 40       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | waterloop:kanaal                    |               |               | CLASSIFICATIE | Water        |
+| 41       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | waterloop:rivier                    |               |               | CLASSIFICATIE | Water        |
+| 42       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | waterloop:sloot                     |               |               | CLASSIFICATIE | Water        |
+| 43       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | watervlakte                         |               |               | CLASSIFICATIE | Water        |
+| 44       | IMGEO_OBJECT  | waterdeel              |                 |                                         |               | watervlakte:meer, plas, ven, vijver |               |               | CLASSIFICATIE | Water        |
 
-### Bijlage B
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-### Bijlage C
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.

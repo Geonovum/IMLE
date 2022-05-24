@@ -118,7 +118,7 @@ Consistentie
 In de BGT wordt de relatieve hoogteligging van objecten ten opzichte van elkaar
 vast gelegd. Voor IMLE is relatieveHoogte niet belangrijk, aangezien alleen de
 oppervlakte van landschapselementen belangrijk is. Wel wordt het Objecttype Boom
-gebruikt om de consistentie van de classificatie te
+gebruikt om de consistentie van de transformatie van BGT objecttypen naar IMLE objecttypen te verbeteren en valideren.
 
 Actualiteit
 -----------

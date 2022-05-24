@@ -108,9 +108,7 @@ Validiteit
 ----------
 
 Validiteit is de mate waarin gegevens voldoen aan de verwachte structuur en
-opslagvorm. Aan de validiteit stelt het IMLE geen eisen, aangezien het een
-conceptueel informatiemodel is dat geen rekening houd met de technische
-implementatie.
+opslagvorm. Aan de validiteit stelt het IMLE alleen eisen in de vorm van kardinaliteiten. Kardinaliteiten vertellen hoe vaak een attribuutsoort voor mag komen binnen een objecttype. Standaard is de kardinaliteit 1, dus dan mag een attribuut 1 keer voorkomen. Een logisch informatiemodel zou ook kunnen worden gebruikt om een XSD schema te genereren waarmee de structuur en verwachte opslagvorm van gegevens kan worden gevalideerd. Aangezien IMLE een conceptueel informatiemodel is, kan het IMLE in deze vorm hier niet voor worden gebruikt.
 
 Consistentie
 ------------
@@ -237,3 +235,12 @@ te verkrijgen moet men in Nederland altijd een transformatie uitvoeren met de
 geldige versie van RDNAPTRANS[^1].
 
 [^1]: Zie www.rdnap.nl
+
+Plausibiliteit
+---------
+
+Traceerbaarheid
+---------
+
+Begrijpelijkheid
+---------

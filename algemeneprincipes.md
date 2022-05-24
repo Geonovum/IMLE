@@ -53,6 +53,7 @@ IMLE onderscheid in punt-, lijn- of vlakgeometrie.
 | Objecttype |Geometrietype |
 |------------|---------------|
 | `Water`    |Vlak          |
+|            |Lijn         |
 | `Hout`     |Vlak          |
 |            |Punt          |
 | `Boom`     |Punt          |

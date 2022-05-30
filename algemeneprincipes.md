@@ -4,7 +4,7 @@ Algemene principes
 Coördinaat-referentiesysteem
 ----------------------------
 
-Het toegepaste coördinaatsysteem voor het IMLE is dat van het stelsel van de
+Het toegepaste coördinaatsysteem voor de BGT is dat van het stelsel van de
 Rijksdriehoeksmeting ([RD-stelsel](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/rijksdriehoeksmeting/rijksdriehoeksstelsel)). De coördinaatgetallen zijn daarbij op
 millimeternauwkeurigheid met als eenheid meters. Het coördinaatgetal heeft
 maximaal drie cijfers achter de komma. Zo nodig wordt daarvoor afgerond, zodanig
@@ -14,11 +14,8 @@ waarde 5 t/m 9 bedraagt, het derde cijfer achter de komma met één wordt
 verhoogd, met mogelijk ook implicaties voor de voorliggende cijfers, waarbij
 dezelfde regel geldt.
 
-Het RD-stelsel voldoet aan de eisen van de Europese richtlijn INSPIRE. Deze
-stelt dat binnen de Europese continentale aardschol, waartoe ook Nederland en
-het Nederlandse deel van de Noordzee behoort, geldt dat coördinaten herleidbaar
-moeten zijn tot het European Terrestrial Reference System 1989 (ETRS89) voor de
-horizontale component.
+De Europese richtlijn INSPIRE stelt dat binnen de Europese continentale aardschol, waartoe ook Nederland en
+het Nederlandse deel van de Noordzee behoort, geldt dat volgens het European Terrestrial Reference System 1989 (ETRS89) moet worden uitgewisseld. RD-data kan worden getransformeerd naar ETRS89 om te voldoen aan de eisen van richtlijn INSPIRE.
 
 Geometrie
 ---------

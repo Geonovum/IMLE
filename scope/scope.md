@@ -123,7 +123,8 @@ De landschapselementen uit de EFA en GSAA laag van het IACS, hoefden niet aan te
 sluiten op INSPIRE. Met de komst van het nieuwe GLB wordt er door het JRC
 gekeken hoe de landschapselementen op INSPIRE zouden kunnen aansluiten. Tijdens
 de start van de ontwikkeling van het IMLE, was er door het JRC nog geen aanpak
-hiervoor gekozen.
+hiervoor gekozen. De opdrachtgever heeft aangegeven dat er vanuit Europa geen aanvullende 
+eisen gelden gelden voor het registreren van landschapselementen.
 
 Wettelijk kader
 ===============

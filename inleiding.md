@@ -28,7 +28,7 @@ subsidie-aanvragen.
 
 Het informatiemodel Landschapselementen (IMLE) heeft als doel om de inhoud en de
 kwaliteitseisen van de referentielaag Landschapselementen van Rijksdienst voor
-Ondernemend Nederland (RVO) te beschrijven.
+Ondernemend Nederland (RVO) te beschrijven. De referentielaag landschapselementen is een kaartlaag met daarop de landschapselementen. Deze wordt door RVO intern gebruikt om het subsidieverleningsproces rondom landschapselementen te ondersteunen.
 
 ### Toepassingsgebied
 

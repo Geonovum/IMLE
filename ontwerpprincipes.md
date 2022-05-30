@@ -7,7 +7,7 @@ De referentielaag LE wordt voornamelijk gegenereerd uit gegevens in de Basisregi
 
 RVO is één van de bronhouders van de BGT, en staat aan de lat voor het aanleveren van gegevens over percelen en landbouwgrond. Naast bronhouder is RVO ook verplicht gebruiker van de BGT voor gegevens op een kaartschaal van 1:500 tot 1:5.000. Bij hogere kaartschalen dient de Basisregistratie Topografie als basis te worden gehanteerd.
 
-Voor de referentielaag LE worden de objecten in de BGT vertaald naar een objectcategorie Hout, Water, of Overig in de referentielaag. Bijvoorbeeld een BegroeidTerreindeel met fysiekvoorkomen ‘houtwal’ in de BGT wordt vertaal naar een object Hout met type ‘houtwal’ in de referentielaag. Voor een volledig overzicht van de vertaling van BGT naar referentielaag, zie [bijlage 1](#bijlage-1-mapping-referentielaag-le-en-bgt). Deze vertaling van BGT naar referentielaag LE is een geautomatiseerd proces op basis van business rules. Het neo bomenregister wordt gebruikt  
+Voor de referentielaag LE worden de objecten in de BGT vertaald naar een objectcategorie Hout, Water, of Overig in de referentielaag. Bijvoorbeeld een BegroeidTerreindeel met fysiekvoorkomen ‘houtwal’ in de BGT wordt vertaal naar een object Hout met type ‘houtwal’ in de referentielaag. Voor een volledig overzicht van de vertaling van BGT naar referentielaag, zie [bijlage 1](#bijlage-1-mapping-referentielaag-le-en-bgt). Deze vertaling van BGT naar referentielaag LE is een geautomatiseerd proces op basis van business rules. Het neo bomenregister wordt gebruikt als aanvulling en kwaliteitstoets op de bomen die zij opgenomen in de BGT.
 
 Het informatiemodel LE (IMLE) beschrijft de inhoud (gegevensdefinitie) en kwaliteit van de referentielaag landschapselementen. Het IMLE bevat aanvullende eisen op de BGT en geldt als dé standaard binnen RVO voor de referentielaag LE.
 
@@ -15,7 +15,8 @@ Het informatiemodel LE (IMLE) beschrijft de inhoud (gegevensdefinitie) en kwalit
 Landschapselementen
 -------------------
 
-Het IMLE onderscheid de volgende objecttypen landschapselementen. De subtypen binnen de blokjes geven aan welke soorten landschapselementen onder andere binnen het objecttype vallen, maar dit wordt niet bijgehouden in het IMLE zelf. Wel valt het fysieke voorkomen van het BGT object te achterhalen via het BGT ID dat wordt opgeslagen.
+Het IMLE onderscheid de volgende objecttypen landschapselementen. De subtypen binnen de blokjes geven aan welke soorten landschapselementen onder andere binnen het objecttype vallen, maar dit wordt niet bijgehouden in het IMLE zelf. Wel valt het fysieke voorkomen van het BGT object te achterhalen via het BGT ID dat wordt opgeslagen. De opdrachtgever heeft aangegeven dat er vanuit Europa geen aanvullende 
+eisen gelden gelden voor het registreren van landschapselementen.
 
 <figure id="Figuur_1">
     <img src="media/93668ed4dcd7750698f8bc63ab8de72d.png" alt="" width="100%">

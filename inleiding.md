@@ -42,7 +42,7 @@ speelt een belangrijke rol bij het uitvoeren en afhandelen van deze aanvragen.
 Er zijn geen andere toepassingen onderkend bij de ontwikkeling van het IMLE. Het
 toepassingsgebied van dit IMLE is daarmee in beginsel beperkt tot het interne
 werkproces van RVO inzake de afhandeling van locatiegebonden regelingen in het
-kader van het Gemeenschappelijk Landbouw Beleid (GLB).
+kader van het Gemeenschappelijk Landbouw Beleid (GLB). 
 
 ### Leeswijzer
 

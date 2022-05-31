@@ -37,15 +37,15 @@ de positionele juistheid per objecttype. In de laatste kolom staan de waarden
 voor idealisatie per objecttype. Omdat IMLE bestaat uit een verzameling objecten
 wordt in de tabel per object een generieke waarde voor de maximaal toegestane
 afwijking vermeld tussen nabijgelegen punten met dezelfde idealisatiewaarden en
-van hetzelfde object.
+van hetzelfde object. 
 
-| IMLE-object | Kwaliteitseisen gebaseerd op BGT/IMGeo-objecttype | Actualiteit van object in maanden | Positionele juistheid tussen punten van object in cm | Idealisatie per punt van object in cm |
+| IMLE-object | Kwaliteitseisen gebaseerd op herkomst object | Actualiteit van object in maanden | Preciesie van object in cm | Idealisatie per punt van object in cm |
 |-------------|---------------------------------------------------|-----------------------------------|------------------------------------------------------|---------------------------------------|
 | Water       | Waterdeel                                         | 18                                | 60                                                   | ≥ 10                                  |
 |             |                                                   |                                   |                                                      |                                       |
 | Hout        | Begroeid terreindeel                              | 18                                | 60                                                   | ≥ 10                                  |
 |             |                                                   |                                   |                                                      |                                       |
-| Boom        | Vegetatie object                                  | 24                                | 60                                                   |                                       |
+| Hout        | NEO bomenregister                                 | 4 tot 5                                | 60                                                   |                                       |
 |             |                                                   |                                   |                                                      |                                       |
 | Overig      | Begroeid terreindeel                              | 18                                | 60                                                   | ≥ 10                                  |
 |             |                                                   |                                   |                                                      |                                       |
@@ -115,7 +115,7 @@ Consistentie
 
 In de BGT wordt de relatieve hoogteligging van objecten ten opzichte van elkaar
 vast gelegd. Voor IMLE is relatieveHoogte niet belangrijk, aangezien alleen de
-oppervlakte van landschapselementen belangrijk is. Wel wordt het Objecttype Boom
+oppervlakte op het maaiveld van landschapselementen belangrijk is. Wel wordt het Objecttype Boom referentieobject
 gebruikt om de consistentie van de transformatie van BGT objecttypen naar IMLE objecttypen te verbeteren en valideren.
 
 Actualiteit
@@ -140,7 +140,7 @@ registreert de volgende tijden:
 -   LV-publicatiedatum: het tijdstip waarop een versie van een object in de
     Landelijke Voorziening is geregistreerd.
 
--   datumInwinning bij Plaatsbepalingspunt.
+-   Tijdstip waarop de transformatie van BGT Objecttype naar IMLE Landschapselement werd gestart wordt vastgelegd in attribuutsoort [transformatiedatum BGT](#detail_attribute_IMLE_Kwaliteit_transformatiedatumBGT)
 
 De notatie van de tijd is overeenkomstig de ISO-regelgeving:
 jjjj-mm-ddTuu:mm:ss. De hoofdletter T wordt gebruikt om de datum- en
@@ -241,6 +241,7 @@ Plausibiliteit
 
 Traceerbaarheid
 ---------
+Om invulling te geven aan de kwaliteitsdimensie traseerbaarheid, wordt bij ieder Landschapsement de herkomst opgeslagen in de attribuutsoort [herkomst](#detail_attribute_IMLE_Kwaliteit_herkomst). De meeste landschapselementen worden ingewonnen uit de BGT. Hierbij is het in het kader van traceerbaarheid belangrijk dat het bgt-type of bgt-fysiekVoorkomen te traceren valt. Dit wordt gedaan door een verwijzing vast te leggen naar de specifieke BGT objecten. Hiervan kan dan het fysiek voorkomen of het type worden afgeleid. Niet ieder type landschapselement kan verwijzen naar ieder type BGT object. Een mapping hiervan is te vinden in [Bijlage 1](#bijlage-1-mapping-referentielaag-le-en-bgt).
 
 Begrijpelijkheid
 ---------

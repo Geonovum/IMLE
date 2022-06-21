@@ -79,8 +79,8 @@ Het IMLE is een tweedimensionale objectverzameling. In de BGT is het noodzakelij
 om de relatieve hoogteligging van objecten ten opzichte van elkaar vast te
 leggen. Voor de referentielaag landschapselementen is het alleen relevant 
 om te weten welke oppervlakte van het landbouwperceel een subsidiabel landschapselement is, 
-want dit is voldoende om subsidie te kunnen verlenen. Alleen bij de stam van een boom wordt
-het niveau vastgelegd met het attribuut ‘absoluteStamhoogte’. 
+want dit is voldoende om subsidie te kunnen verlenen. Alleen bij de boom wordt
+misschien de hoogte vastgelegd met het attribuut ‘absoluteHoogte’. 
 
 Identificatie
 -------------

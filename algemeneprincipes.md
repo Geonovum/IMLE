@@ -53,8 +53,8 @@ IMLE onderscheid in punt- of vlakgeometrie.
 |            |         |
 | `Hout landschapselement`     |Vlak          |
 |            |Punt          |
-| `Boom referentieobject`     |Punt          |
-|            |Vlak          |
+| `Boom referentieobject geometrie`     |Punt          |
+| `Boom referentieobject boomkruin`           |Vlak          |
 | `Overig landschapselement`   |Vlak          |
 |            |          |
 

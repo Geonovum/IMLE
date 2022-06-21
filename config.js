@@ -154,6 +154,12 @@ var respecConfig =
       "date": "2011-10",
       "publisher": "International Organization for Standardization"
     },
+    "ISO19107": {
+      "href": "https://www.iso.org/standard/66175.html",
+      "title": "Geographic information — Spatial schema",
+      "date": "2019-12",
+      "publisher": "International Organization for Standardization"
+    },
     BGT12: {
       id: "bgt12",
       title: "Basisregistratie Grootschalige Topografie Gegegevenscatalogus BGT 1.2",

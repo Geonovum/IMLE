@@ -7,7 +7,7 @@ De referentielaag LE wordt voornamelijk gegenereerd uit gegevens in de Basisregi
 
 RVO is één van de bronhouders van de BGT, en staat aan de lat voor het aanleveren van gegevens over percelen en landbouwgrond. Naast bronhouder is RVO ook verplicht gebruiker van de BGT voor gegevens op een kaartschaal van 1:500 tot 1:5.000. Bij hogere kaartschalen dient de Basisregistratie Topografie als basis te worden gehanteerd.
 
-Voor de referentielaag LE worden de objecten in de BGT vertaald naar een objectcategorie Hout, Water, of Overig in de referentielaag. Bijvoorbeeld een BegroeidTerreindeel met fysiekvoorkomen ‘houtwal’ in de BGT wordt vertaal naar een object Hout met type ‘houtwal’ in de referentielaag. Voor een volledig overzicht van de vertaling van BGT naar referentielaag, zie [bijlage 1](#bijlage-1-mapping-referentielaag-le-en-bgt). Deze vertaling van BGT naar referentielaag LE is een geautomatiseerd proces op basis van business rules. Het neo bomenregister wordt gebruikt als aanvulling en kwaliteitstoets op de bomen die zij opgenomen in de BGT.
+Voor de referentielaag LE worden de objecten in de BGT vertaald naar een objectcategorie Hout, Water, of Overig in de referentielaag. Bijvoorbeeld een BegroeidTerreindeel met fysiekvoorkomen ‘houtwal’ in de BGT wordt vertaal naar een object Hout met type ‘houtwal’ in de referentielaag. Voor een volledig overzicht van de vertaling van BGT naar referentielaag, zie [bijlage 1](#bijlage-1-mapping-referentielaag-le-en-bgt). Deze vertaling van BGT naar referentielaag LE is een geautomatiseerd proces op basis van business rules. Een bomenbestandvan NEO wordt gebruikt als kwaliteittoets op de bomen in de BGT en om de bomen als de houtvlakken toe te voegen aan de referentielaag. Er zouden meerdere bronnen kunnen worden gebruikt om dit voor de andere typen landschapselementen  te doen, maar hier is nog niet toe besloten. Het model bied hier wel ruimte voor met de keuzerelatie "is afgeleid van". Hier zouden nog andere referentieobjecttypen aan kunnen worden toegevoegd.
 
 Het informatiemodel LE (IMLE) beschrijft de inhoud (gegevensdefinitie) en kwaliteit van de referentielaag landschapselementen. Het IMLE bevat aanvullende eisen op de BGT en geldt als dé standaard binnen RVO voor de referentielaag LE.
 
@@ -15,8 +15,7 @@ Het informatiemodel LE (IMLE) beschrijft de inhoud (gegevensdefinitie) en kwalit
 Landschapselementen
 -------------------
 
-Het IMLE onderscheid de volgende objecttypen landschapselementen. De subtypen binnen de blokjes geven aan welke soorten landschapselementen onder andere binnen het objecttype vallen, maar dit wordt niet bijgehouden in het IMLE zelf. Wel valt het fysieke voorkomen van het BGT object te achterhalen via het BGT ID dat wordt opgeslagen. De opdrachtgever heeft aangegeven dat er vanuit Europa geen aanvullende 
-eisen gelden gelden voor het registreren van landschapselementen.
+Het IMLE onderscheid de volgende objecttypen landschapselementen. De subtypen binnen de blokjes geven een aantal voorbeelden van welke soorten landschapselementen onder andere binnen de objecttypen van de referentielaag vallen, maar dit wordt niet bijgehouden in het IMLE zelf. Wel valt het fysieke voorkomen van het BGT object te achterhalen via het BGT ID dat wordt opgeslagen. Het is bij RVO niet bekend of er vanuit de EU aanvullende eisen gelden.
 
 <figure id="Figuur_1">
     <img src="media/93668ed4dcd7750698f8bc63ab8de72d.png" alt="" width="100%">
@@ -28,8 +27,7 @@ Dekking
 -------
 
 Het IMLE heeft betrekking op landschapselement-objecten afkomstig uit het grondgebied van landbouwpercelen met een
-omliggende strook (buffer) van 5 meter. Een landbouwperceel is een stuk grondgebied dat wordt gebruikt voor agrarische toepassingen, dat bij het Kadster is geregistreerd op naam van een eigenaar. De digitale representatie hiervan, noemt het RVO ook wel een referentieperceel. De landschapselementen in en binnen de buffer rond het perceel, komen terecht in de referentielaag landschapselementen. Niet tot de inhoud van het IMLE behoren de (niet-agrarische) landschapselementen
-die buiten dit grongebied valt.
+omliggende strook (buffer) van 5 meter. Een landbouwperceel is een stuk grondgebied dat wordt gebruikt voor agrarische toepassingen, dat bij het Kadaster is geregistreerd op naam van een eigenaar. Een referentieperceel is alleen de beteelbare oppervlakte van dit landbouwperceel. De kadastrale oppervlakte is groter dan de beteelbare oppervlakte en bevat bijvoorbeeld soms de helft van de sloot. De landschapselementen in en binnen de buffer rond het perceel, komen terecht in de referentielaag landschapselementen. En daarnaast gaat het RVO ook handmatige insluitingen, buiten de kaders om, toestaan. Niet tot de inhoud van het IMLE behoren de (niet-agrarische) landschapselementen die buiten dit grongebied vallen. Daarnaast bestaan er ook nog uitsluitingen o.b.v. oppervlakte van het landschapselement, bijvoorbeeld Hout & Overig mag niet groter zijn dan 1.5 ha.
 
 
 Modellering

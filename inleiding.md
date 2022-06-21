@@ -47,6 +47,6 @@ kader van het Gemeenschappelijk Landbouw Beleid (GLB).
 ### Leeswijzer
 
 In hoofdstuk 2 worden de ontwerpprincipes waarop het informatiemodel is geënt
-beschrijven. In hoofdstuk 3 worden de algemene principes beschreven. In
+beschreven. In hoofdstuk 3 worden de algemene principes beschreven. In
 Hoofdstuk 4 wordt de gegevenskwaliteit beschreven. In hoofdstuk 5 e.v. wordt het
 conceptuele model beschreven.

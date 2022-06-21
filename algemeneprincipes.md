@@ -50,13 +50,13 @@ IMLE onderscheid in punt- of vlakgeometrie.
 | Objecttype |Geometrietype |
 |------------|---------------|
 | `Water landschapselement`    |Vlak          |
-|            |Punt         |
+|            |         |
 | `Hout landschapselement`     |Vlak          |
 |            |Punt          |
 | `Boom referentieobject`     |Punt          |
 |            |Vlak          |
 | `Overig landschapselement`   |Vlak          |
-|            |Punt          |
+|            |          |
 
 Topologie
 ---------

@@ -18,8 +18,8 @@ Landschapselementen
 Het IMLE onderscheid de volgende objecttypen landschapselementen. De subtypen binnen de blokjes geven een aantal voorbeelden van welke soorten landschapselementen onder andere binnen de objecttypen van de referentielaag vallen, maar dit wordt niet bijgehouden in het IMLE zelf. Wel valt het fysieke voorkomen van het BGT object te achterhalen via het BGT ID dat wordt opgeslagen. Het is bij RVO niet bekend of er vanuit de EU aanvullende eisen gelden.
 
 <figure id="Figuur_1">
-    <img src="media/93668ed4dcd7750698f8bc63ab8de72d.png" alt="" width="100%">
-    <figcaption>Overzicht landschapselementen met voorbeelden van subtypereningen die landen in de referentielaag LE.</figcaption>
+    <img src="media/Landschapselementen%20illustratie%201.png" alt="" width="100%">
+    <figcaption>Overzicht landschapselementen, met voorbeelden, die landen in de referentielaag LE.</figcaption>
 </figure>
 
 

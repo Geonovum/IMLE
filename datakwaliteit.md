@@ -20,7 +20,7 @@ met de kwaliteitsdimensies:
 
 -   Compleetheid;
 
--   Validiteit (toegoegen)
+-   Validiteit;
 
 -   Consistentie;
 

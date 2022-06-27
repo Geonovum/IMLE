@@ -40,7 +40,7 @@ var respecConfig =
 {
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
   //specStatus: "GN-BASIS",             // Basis Document
-  specStatus: "GN-WV",              // Werk Versie
+  specStatus: "GN-VV",              // Werk Versie
   //specStatus: "GN-CV",              // Consultatie Versie
   //specStatus: "GN-VV",              // Vaststellings Versie
   //specStatus: "GN-DEF",             // Definitieve Versie
@@ -56,7 +56,7 @@ var respecConfig =
   // format: "markdown",                 // altijd "markdown" - JvG W3C aangepast, op 1 plek markdown aangeven    
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2022-06-28",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/geonovum/IMLE",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
@@ -65,6 +65,8 @@ var respecConfig =
   edDraftURI: "https://github/geonovum/IMLE",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
+  
+  
   editors: 
  [
     {

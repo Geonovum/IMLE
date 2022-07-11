@@ -339,7 +339,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12732"/>
 										<UML:TaggedValue tag="ea_sourceName" value="BGT of andere bron"/>
 										<UML:TaggedValue tag="ea_targetName" value="Keuze BGT object"/>
@@ -348,7 +348,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15487"/>
 										<UML:TaggedValue tag="ea_targetID" value="15486"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={DE206DBA-E1F4-406a-B1A2-0875F9192D1B}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={25CE2E63-7333-4d21-B81E-8941AC1BC641}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit BGT object"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -379,7 +379,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12731"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Keuze BGT object"/>
 										<UML:TaggedValue tag="ea_targetName" value="vegetatieObject"/>
@@ -388,7 +388,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15486"/>
 										<UML:TaggedValue tag="ea_targetID" value="15505"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={34718832-E9C5-4f3f-B581-2E9E0BB1FB0F}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={2665AB98-E625-4c0f-BBBD-AABAC36D109B}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit vegetatieObject"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -419,7 +419,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12730"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Keuze BGT object"/>
 										<UML:TaggedValue tag="ea_targetName" value="begroeidTerreindeel"/>
@@ -428,7 +428,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15486"/>
 										<UML:TaggedValue tag="ea_targetID" value="15502"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={895A6643-046C-4281-BB04-50AA7AF6BB5B}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={A7EC8B78-39E2-4885-A5CC-136F341C8B05}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit begroeidTerreindeel"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -459,7 +459,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12729"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Keuze BGT object"/>
 										<UML:TaggedValue tag="ea_targetName" value="ondersteunendWegdeel"/>
@@ -468,7 +468,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15486"/>
 										<UML:TaggedValue tag="ea_targetID" value="15504"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={53C13EBD-750C-4d7c-A8AA-6F1C1BA18C0B}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={AAD2625C-F0F0-4553-AD63-887A8E4E4694}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit ondersteunendWegdeel"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -499,7 +499,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12728"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Keuze BGT object"/>
 										<UML:TaggedValue tag="ea_targetName" value="waterdeel"/>
@@ -508,7 +508,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15486"/>
 										<UML:TaggedValue tag="ea_targetID" value="15503"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={B3C3F518-A5F3-46be-9006-57E53746BF34}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={F0F5D5CC-8F61-4fe3-A19B-C56F781A315D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit waterdeel"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -539,7 +539,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12727"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Keuze BGT object"/>
 										<UML:TaggedValue tag="ea_targetName" value="ondersteunendWaterdeel"/>
@@ -548,7 +548,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15486"/>
 										<UML:TaggedValue tag="ea_targetID" value="15501"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={B1B3E773-BF59-4dc0-A35A-19DDD18C29CE}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={F95FC821-0A67-481b-8372-95557545DAAB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit ondersteunendWaterdeel"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -608,7 +608,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12726"/>
 										<UML:TaggedValue tag="ea_sourceName" value="BGT of andere bron"/>
 										<UML:TaggedValue tag="ea_targetName" value="Boom referentieobject"/>
@@ -617,7 +617,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15487"/>
 										<UML:TaggedValue tag="ea_targetID" value="15495"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={8E19BDF2-35A5-457a-BE69-A92876385436}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={1BFAC75F-E150-45d2-AB14-419A4F00BC3E}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit boom referentieobject"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -648,7 +648,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12725"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Landschapselement"/>
 										<UML:TaggedValue tag="ea_targetName" value="BGT of andere bron"/>
@@ -658,7 +658,7 @@
 										<UML:TaggedValue tag="ea_targetID" value="15487"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={B8BD5993-07CF-460d-9E8F-BC8BD4D9DE87}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={83A3BD2E-8D69-4db1-9DC4-41BA2FBDF250}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 										<UML:TaggedValue tag="virtualInheritance" value="0"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit"/>
 										<UML:TaggedValue tag="rt" value="+is afgeleid uit"/>
 									</UML:ModelElement.taggedValue>
@@ -690,7 +690,7 @@
 										<UML:TaggedValue tag="seqno" value="0"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="ea_localid" value="12724"/>
 										<UML:TaggedValue tag="ea_sourceName" value="BGT of andere bron"/>
 										<UML:TaggedValue tag="ea_targetName" value="Handmatig ingevoerd referentieobject"/>
@@ -699,7 +699,7 @@
 										<UML:TaggedValue tag="ea_sourceID" value="15487"/>
 										<UML:TaggedValue tag="ea_targetID" value="15490"/>
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={3CAF832B-2365-43d4-BEBB-FC2F7B9CE57E}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Keuze;FQName=MIM_Keuzerelatie::Keuze;@ENDSTEREO;$DES;$CLT={90FD805B-2ECF-488c-A15B-3696F1A09040}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Keuze�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Keuze»"/>
 										<UML:TaggedValue tag="mt" value="is afgeleid uit handmatig ingevoerd referentieobje"/>
 									</UML:ModelElement.taggedValue>
 									<UML:Association.connection>
@@ -799,7 +799,7 @@
 										<UML:TaggedValue tag="stereotype" value="Generalisatie"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Generalisatie�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Generalisatie»"/>
 										<UML:TaggedValue tag="ea_localid" value="12723"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Hout Landschapselement"/>
 										<UML:TaggedValue tag="ea_targetName" value="Landschapselement"/>
@@ -826,7 +826,7 @@
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={EF10C3E9-A9A6-4b76-8AA6-FFA43A50A56E}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Generalisatie;FQName=MIM::Generalisatie;@ENDSTEREO;$DES;$CLT={D7F42FA9-98E4-4194-BC4D-BA8BAF9A32A1}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 										<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 										<UML:TaggedValue tag="virtualInheritance" value="0"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Generalisatie�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Generalisatie»"/>
 										<UML:TaggedValue tag="mt" value="is een"/>
 										<UML:TaggedValue tag="Datum opname" xmi.id="EAID_FB3F1EDB_45C3_1445_B8A4_4B962B0DD954">
 											<XMI.extension xmi.extender="Enterprise Architect 2.5">
@@ -914,9 +914,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_9376_55B89D83E727">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_9376_55B89D83E727">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_8300_44BACC974498">
@@ -1021,9 +1021,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" xmi.id="EAID_8F70DA6F_38F5_1138_B03B_2A4BC1493F1C">
+												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_8F70DA6F_38F5_1138_B03B_2A4BC1493F1C">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_A5E1_A2B4269428AA">
@@ -1108,9 +1108,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_B64D_02299B2CF839">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_B64D_02299B2CF839">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_81AE_CAC30D38E94E">
@@ -1190,9 +1190,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" xmi.id="EAID_8F70DA6F_38F5_1138_84E3_736C301C6A46">
+												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_8F70DA6F_38F5_1138_84E3_736C301C6A46">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_B983_8B8AC11CAE20">
@@ -1450,9 +1450,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_A4B6_5D2B28DA4B62">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_A4B6_5D2B28DA4B62">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_AA11_3874C2EE1E66">
@@ -1538,9 +1538,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_8BCC_A3405C3CD63A">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_8BCC_A3405C3CD63A">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_BC0B_EAC1BC821BB0">
@@ -1794,9 +1794,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_93F3_A20FD9DD6B76">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_93F3_A20FD9DD6B76">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_9B3E_2CE98E559F00">
@@ -1891,9 +1891,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" value="Nee" xmi.id="EAID_8F70DA6F_38F5_1138_BDEE_E9D4A68FB61D">
+												<UML:TaggedValue tag="Indicatie materiële historie" value="Nee" xmi.id="EAID_8F70DA6F_38F5_1138_BDEE_E9D4A68FB61D">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Nee" xmi.id="EAID_D0DCC9FB_CF01_a7cf_8CA8_AB257E24042B">
@@ -1978,9 +1978,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" value="Zie groep" xmi.id="EAID_8F70DA6F_962F_5196_BD2D_0999D0F0E34A">
+												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_8F70DA6F_962F_5196_BD2D_0999D0F0E34A">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_95BB_db95_A31B_09A331F3B20A">
@@ -2033,9 +2033,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_9879_2DED5A484848">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_9879_2DED5A484848">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_BEEB_013F5F67A8E9">
@@ -2120,9 +2120,9 @@
 														<UML:Comment name="Description: De datum waarop het informatie-element is opgenomen in het informatiemodel.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" xmi.id="EAID_8F70DA6F_0D8B_670d_AF31_0CBA472A186B">
+												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_8F70DA6F_0D8B_670d_AF31_0CBA472A186B">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_8617_3386_A818_E5AA36BC8659">
@@ -2166,7 +2166,7 @@
 												<UML:TaggedValue tag="ea_guid" value="{AEF03E03-CBA4-4bf2-9DA5-625FE6010AEA}"/>
 												<UML:TaggedValue tag="ea_localid" value="37970"/>
 												<UML:TaggedValue tag="styleex" value="volatile=0;union=0;"/>
-												<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={710A6993-BB21-4d6d-B61A-1496429090C3}$XID;$NAM=Stereotypes$NAM;$TYP=attribute property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Gegevensgroep;FQName=MIM::Gegevensgroep;@ENDSTEREO;@STEREO;Name=materi�le levensduur;GUID={1841A4B7-EE5E-4f8b-8EAE-4A7B696DEC73};@ENDSTEREO;$DES;$CLT={AEF03E03-CBA4-4bf2-9DA5-625FE6010AEA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
+												<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={710A6993-BB21-4d6d-B61A-1496429090C3}$XID;$NAM=Stereotypes$NAM;$TYP=attribute property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Gegevensgroep;FQName=MIM::Gegevensgroep;@ENDSTEREO;@STEREO;Name=materiële levensduur;GUID={1841A4B7-EE5E-4f8b-8EAE-4A7B696DEC73};@ENDSTEREO;$DES;$CLT={AEF03E03-CBA4-4bf2-9DA5-625FE6010AEA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 												<UML:TaggedValue tag="Begrip" xmi.id="EAID_EBF7A679_FC95_bbfc_B08D_5B4B4ADE879B">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
 														<UML:Comment name="Description: Verwijzing naar een begrip. De verwijzing heeft de vorm van een term of een URI.&#xA;"/>
@@ -2187,9 +2187,9 @@
 														<UML:Comment name="Description: De datum waarop het informatie-element is opgenomen in het informatiemodel.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" xmi.id="EAID_8F70DA6F_0D8B_670d_852A_7C0076D4F0CF">
+												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_8F70DA6F_0D8B_670d_852A_7C0076D4F0CF">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_8617_3386_8D0F_E3DC33CA4284">
@@ -2221,7 +2221,7 @@
 										<UML:TaggedValue tag="stereotype" value="Generalisatie"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Generalisatie�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Generalisatie»"/>
 										<UML:TaggedValue tag="ea_localid" value="12722"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Overig Landschapselement"/>
 										<UML:TaggedValue tag="ea_targetName" value="Landschapselement"/>
@@ -2248,7 +2248,7 @@
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={BA3DBF2C-9B1F-4dea-B504-DCAEC30DE638}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Generalisatie;FQName=MIM::Generalisatie;@ENDSTEREO;$DES;$CLT={CB6843A0-A2C9-4119-B335-94963F97480D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 										<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 										<UML:TaggedValue tag="virtualInheritance" value="0"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Generalisatie�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Generalisatie»"/>
 										<UML:TaggedValue tag="mt" value="is een"/>
 										<UML:TaggedValue tag="Datum opname" xmi.id="EAID_FB3F1EDB_45C3_1445_9029_1B0D77B8603D">
 											<XMI.extension xmi.extender="Enterprise Architect 2.5">
@@ -2272,7 +2272,7 @@
 										<UML:TaggedValue tag="stereotype" value="Generalisatie"/>
 										<UML:TaggedValue tag="headStyle" value="0"/>
 										<UML:TaggedValue tag="lineStyle" value="0"/>
-										<UML:TaggedValue tag="conditional" value=" &#xA;�Generalisatie�"/>
+										<UML:TaggedValue tag="conditional" value=" &#xA;«Generalisatie»"/>
 										<UML:TaggedValue tag="ea_localid" value="12721"/>
 										<UML:TaggedValue tag="ea_sourceName" value="Water Landschapselement"/>
 										<UML:TaggedValue tag="ea_targetName" value="Landschapselement"/>
@@ -2299,7 +2299,7 @@
 										<UML:TaggedValue tag="$ea_xref_property" value="$XREFPROP=$XID={DF4E89B0-B4A3-441b-9299-FEA16B347464}$XID;$NAM=Stereotypes$NAM;$TYP=connector property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=Generalisatie;FQName=MIM::Generalisatie;@ENDSTEREO;$DES;$CLT={D19BE42B-6616-42a1-B90B-35D8009E76A5}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 										<UML:TaggedValue tag="privatedata5" value="EDGE=1;"/>
 										<UML:TaggedValue tag="virtualInheritance" value="0"/>
-										<UML:TaggedValue tag="mb" value=" &#xA;�Generalisatie�"/>
+										<UML:TaggedValue tag="mb" value=" &#xA;«Generalisatie»"/>
 										<UML:TaggedValue tag="mt" value="is een"/>
 										<UML:TaggedValue tag="Datum opname" xmi.id="EAID_FB3F1EDB_45C3_1445_B77B_8B42AD28C90E">
 											<XMI.extension xmi.extender="Enterprise Architect 2.5">
@@ -2453,9 +2453,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_87EF_3CDA2FBD2823">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_87EF_3CDA2FBD2823">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_BA6E_3520B089307A">
@@ -2541,9 +2541,9 @@
 														<UML:Comment name="Description: Verwijzing naar een begrip. De verwijzing heeft de vorm van een term of een URI.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_278E_b127_81F0_85CAB5FB7535">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_278E_b127_81F0_85CAB5FB7535">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Herkomst" value="IMLE" xmi.id="EAID_6B33862D_45B3_a345_8B2E_9D9742C6E527">
@@ -2571,9 +2571,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" xmi.id="EAID_8F70DA6F_38F5_1138_93E4_5317521E569E">
+												<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_8F70DA6F_38F5_1138_93E4_5317521E569E">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_9E60_03CBD4D17413">
@@ -2643,9 +2643,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materi�le historie" value="Nee" xmi.id="EAID_8F70DA6F_38F5_1138_9D86_952AAC1A23DC">
+												<UML:TaggedValue tag="Indicatie materiële historie" value="Nee" xmi.id="EAID_8F70DA6F_38F5_1138_9D86_952AAC1A23DC">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materi�le historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Nee" xmi.id="EAID_D0DCC9FB_CF01_a7cf_BCE4_379B332BB148">
@@ -2710,9 +2710,9 @@
 														<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
-												<UML:TaggedValue tag="Indicatie materiële historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_A55E_D05B5810B3D4">
+												<UML:TaggedValue tag="Indicatie materiÃ«le historie" value="Zie groep" xmi.id="EAID_17D5C112_C038_a0c0_A55E_D05B5810B3D4">
 													<XMI.extension xmi.extender="Enterprise Architect 2.5">
-														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+														<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 													</XMI.extension>
 												</UML:TaggedValue>
 												<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_814D_D39E949C7163">
@@ -3450,9 +3450,9 @@
 																<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
-														<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_85C7_DFD3D013DA1F">
+														<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_85C7_DFD3D013DA1F">
 															<XMI.extension xmi.extender="Enterprise Architect 2.5">
-																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
 														<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_A9A4_2459F1F9C043">
@@ -3627,9 +3627,9 @@
 																<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
-														<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_8FC0_DA850946D87C">
+														<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_8FC0_DA850946D87C">
 															<XMI.extension xmi.extender="Enterprise Architect 2.5">
-																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
 													</UML:ModelElement.taggedValue>
@@ -3673,9 +3673,9 @@
 																<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
-														<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_B523_ED098C776A64">
+														<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_B523_ED098C776A64">
 															<XMI.extension xmi.extender="Enterprise Architect 2.5">
-																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
 														<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_9479_33561107326E">
@@ -3825,9 +3825,9 @@
 																<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
-														<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_BEAE_97F77D6FE7C3">
+														<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_BEAE_97F77D6FE7C3">
 															<XMI.extension xmi.extender="Enterprise Architect 2.5">
-																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
 														<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_A4CF_5D0A9AC42BDF">
@@ -3941,9 +3941,9 @@
 																<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
-														<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_83E1_A0E9AD97BD51">
+														<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_83E1_A0E9AD97BD51">
 															<XMI.extension xmi.extender="Enterprise Architect 2.5">
-																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
 														<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_BA48_583FE3FA5418">
@@ -4006,9 +4006,9 @@
 																<UML:Comment name="Description: Zoals patroon, formeel vastgelegd (met een reguliere expressie), uitgedrukt in een formele taal die door de computer wordt herkend.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
-														<UML:TaggedValue tag="Indicatie materiële historie" xmi.id="EAID_17D5C112_C038_a0c0_8B4C_D92BBAC6A51B">
+														<UML:TaggedValue tag="Indicatie materiÃ«le historie" xmi.id="EAID_17D5C112_C038_a0c0_8B4C_D92BBAC6A51B">
 															<XMI.extension xmi.extender="Enterprise Architect 2.5">
-																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiële historie van dit informatie-element te bevragen is.&#xA;"/>
+																<UML:Comment name="Values: Ja,Nee,Zie groep&#xA;Description: Indicatie of de materiÃ«le historie van dit informatie-element te bevragen is.&#xA;"/>
 															</XMI.extension>
 														</UML:TaggedValue>
 														<UML:TaggedValue tag="Indicatie formele historie" value="Zie groep" xmi.id="EAID_D0DCC9FB_CF01_a7cf_9509_6FD4A26B29DD">
